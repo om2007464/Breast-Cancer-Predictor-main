@@ -14,7 +14,6 @@ Accessible and versatile, the app offers seamless integration with cytology labs
 `scikit_learn`
 `streamlit`
 `altair`
-`streamlit`
 ## Installation
 
 You can run this inside a virtual environment to make it easier to manage dependencies
