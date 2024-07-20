@@ -3,6 +3,9 @@
 Imagine a cutting-edge Breast Cancer Diagnosis app, crafted with powerful machine learning capabilities, tailored to support medical professionals in accurately diagnosing breast cancer. This innovative tool analyzes a comprehensive set of measurements to predict whether a breast mass is benign or malignant, transforming complex data into a clear, visual radar chart. It not only delivers a precise diagnosis but also presents the probability of the mass being benign or malignant, empowering healthcare providers with crucial insights.
 
 Accessible and versatile, the app offers seamless integration with cytology labs, enabling automated data retrieval directly from lab machines for swift analysis. Please note, while the app seamlessly interfaces with lab equipment, the connection to the laboratory machine itself is managed independently. This ensures efficiency and accuracy in diagnosing breast cancer, revolutionizing medical diagnostics with advanced technology at its core.
+
+<img width="1439" alt="Screenshot 2024-07-20 at 16 38 12" src="https://github.com/user-attachments/assets/335d2f4c-1a20-4a91-b8d2-7c1aa95bf189">
+
 ## Tech Stack
 `numpy`
 `pandas`
