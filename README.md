@@ -4,6 +4,9 @@ Imagine a cutting-edge Breast Cancer Diagnosis app, crafted with powerful machin
 
 Accessible and versatile, the app offers seamless integration with cytology labs, enabling automated data retrieval directly from lab machines for swift analysis. Please note, while the app seamlessly interfaces with lab equipment, the connection to the laboratory machine itself is managed independently. This ensures efficiency and accuracy in diagnosing breast cancer, revolutionizing medical diagnostics with advanced technology at its core.
 
+In is EDA I used 3 algorithms LogisticRegression, K-Nearest Neighbors, GaussianNB,
+Naive Bayes and K-Nearest Neighbors (KNN) algorithms perform similarly and achieve the highest precision scores
+
 <img width="1439" alt="Screenshot 2024-07-20 at 16 38 12" src="https://github.com/user-attachments/assets/335d2f4c-1a20-4a91-b8d2-7c1aa95bf189">
 
 ## Tech Stack
